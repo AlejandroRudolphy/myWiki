@@ -24,3 +24,6 @@ Mis metas a corto plazo son titularme de ingeniero, trabajar un año y luego apr
 Gracias Por leer.
 
 PD: Perdón por la demora, tengo que admitir que flojee un poco las primeras semanas del semestre.
+
+Github: https://github.com/AlejandroRudolphy
+Devops: https://dev.azure.com/alejandrorudolphy/
